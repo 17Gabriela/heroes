@@ -1,2 +1,3 @@
 Buu
 Magneto
+Darth Vader
