@@ -8,3 +8,4 @@
 * Spider-Man
 * Hulk
 * Gatuvela
+* Capitán América
